@@ -1,0 +1,28 @@
+{
+  "name": "dailyui",
+  "version": "0.0.0",
+  "description": "daily UI challenges from the web https://www.dailyui.co/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack"
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "html",
+    "javascript"
+  ],
+  "author": "Pepe Valderrama Regueira",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "babel-loader": "^8.0.6",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-sass": "^4.0.2",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9"
+  }
+}
